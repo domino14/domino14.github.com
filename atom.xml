@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Cesar Del Solar's blog]]></title>
   <link href="http://domino14.github.com/atom.xml" rel="self"/>
   <link href="http://domino14.github.com/"/>
-  <updated>2013-02-21T01:45:31-08:00</updated>
+  <updated>2013-02-21T02:01:32-08:00</updated>
   <id>http://domino14.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Cesar Del Solar]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[My first post]]></title>
+    <link href="http://domino14.github.com/blog/2013/02/21/my-first-post/"/>
+    <updated>2013-02-21T01:53:00-08:00</updated>
+    <id>http://domino14.github.com/blog/2013/02/21/my-first-post</id>
+    <content type="html"><![CDATA[<p>This is my very first post. Huzzah!</p>
+]]></content>
+  </entry>
   
 </feed>
